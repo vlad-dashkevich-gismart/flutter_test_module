@@ -1,10 +1,10 @@
 name: test_flutter_vlad
 description: "A Flutter package with customizable UI components for fast and modern app development."
 repository: "https://github.com/vlad-dashkevich-gismart/flutter_test_module.git"
-version: 1.0.0+1
+version: 1.0.1+1
 
 environment:
-  sdk: ^3.6.2
+  sdk: ">=3.5.0 <4.0.0"
 
 dependencies:
   flutter:
